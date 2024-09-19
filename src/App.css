@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, #798189, #92adc7);
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Arial', sans-serif;
+  color: black;
+}
+
+p {
+  font-family: 'Verdana', sans-serif;
+  font-size: 18px;
+}
